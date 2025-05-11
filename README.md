@@ -2,14 +2,22 @@
 
 ## NewsApp (news SPA)  
 [NewsApp](https://daulet1232.github.io/news_react/) – a single-page application for browsing categorized news articles in a dark-themed and responsive interface.  
-Features include:
+### Features:
 - Category-based filtering
 - Live search by keyword
 - Dynamic data loading from [CurrentsAPI](https://currentsapi.services/) using Axios
 - Pagination for navigating results
 - Available news categories fetched dynamically
-- Individual article cards with images and summaries  
-Used: React, Vite, JavaScript (ES6+), JSX, Axios, CSS (modules), responsive layout
+- Individual article cards with images and summaries
+
+### Technologies used:
+- **React** for building the UI
+- **Vite** for fast development and build process
+- **JavaScript (ES6+)** and **JSX** for app logic and structure
+- **Axios** for fetching data from the API
+- **CSS Modules** for styling with modular CSS
+- **Responsive layout** for optimal viewing on all devices
+
 
 ## Travel landing
 [Travel](https://daulet1232.github.io/Travel/) - html , css , adaptive
