@@ -1,5 +1,26 @@
 # Sultanov Daulet
 
+## OnlineShop(SPA)
+[OnlineShop](https://daulet1232.github.io/shop-react-main/) - a single-page application for browsing and purchasing products in a minimalistic, responsive interface.
+### Features:
+- Dynamic product listing from a mock API
+- Category-based filtering
+- Add/remove items to/from cart
+- Cart total price calculation
+- Product loading skeletons
+- Responsive layout for mobile and desktop devices
+
+### Technologies used:
+- **React** for building the UI
+- **Redux** and Redux Thunk for state management and async logic
+- **React Router DOM** for client-side routing
+- **Axios** for data fetching
+- **SCSS (Sass) and Tailwind** CSS for styling
+- **classnames** for conditional styling
+- **json-server** for local mock backend during development
+
+---
+
 ## NewsApp (news SPA)  
 [NewsApp](https://daulet1232.github.io/news_react/) – a single-page application for browsing categorized news articles in a dark-themed and responsive interface.  
 ### Features:
